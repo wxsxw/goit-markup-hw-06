@@ -907,6 +907,7 @@ p {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: #757575;
+  margin-bottom: 30px;
 }
 
 .modal-check-text::before {
@@ -945,7 +946,6 @@ p {
   color: #2196f3;
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 
 .modal-link-policy:hover,
 .modal-link-policy:focus {
